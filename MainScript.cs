@@ -1,4 +1,6 @@
-﻿using System.Collections;
+//クリックした二点で長方形を書くスクリプト
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
